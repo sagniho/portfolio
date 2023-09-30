@@ -329,6 +329,7 @@ img {
 }
 
 .portfolio_img_img {
+  padding-top: 2rem;
   max-width: 200px; /* Adjust as needed */
   max-height: 200px; /* Adjust as needed */
   display: block;
@@ -417,6 +418,7 @@ img {
 }
 
 .footer__logo {
+  padding-top: 1rem;
   max-width: 200px; /* Or any desired width */
   max-height: 100px; /* Or any desired height */
   margin: 0 auto; /* Center the logo */
@@ -560,6 +562,7 @@ img {
   }
   .portfolio__container {
     grid-template-columns: repeat(3, 1fr);
+    padding-top: 2rem;
     column-gap: 2rem;
   }
 }
